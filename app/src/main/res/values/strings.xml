@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="onepiece">One Piece</string>
+    <string name="naruto">Naruto Shippuden</string>
+    <string name="dragonball">Dragon Ball</string>
+    <string name="bleach">Bleach</string>
+    <string name="jujutsukaisen">Jujutsu Kaisen</string>
+    <string name="onepunchman">One Punch Man</string>
+    <string name="bokunopico">Boku No Pico</string>
+    <string name="gintama">Gintama</string>
+    <string name="snk">Shingeki No Kyujin</string>
+    <string name="demon">Demon Slayer</string>
+    <string name="alchemist">Full Metal Alchemist</string>
+    <string name="hunterx">Hunter x Hunter</string>
+    <string name="spyx">Spy x Family</string>
+</resources>
